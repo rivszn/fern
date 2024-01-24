@@ -1,0 +1,17 @@
+# requirements.txt
+
+# Google API Client Libraries
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Discord Bot Libraries
+discord.py
+
+# Additional
+requests
+aiohttp
+websockets
+python-dotenv
+pytz
+dateparser
